@@ -1,0 +1,13 @@
+.button {
+  width: 200px;
+}
+
+.button-group {
+  border: 5px solid #ffff00;
+  display: flex;
+  justify-content: center;
+}
+
+.submit-button {
+  height: 150px;
+}
